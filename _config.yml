@@ -11,6 +11,7 @@ author: OpenMyMed
 navbar-links:
   About: "about"
   Blog: "blog"
+  Wiki: "https://wiki.kisoft.me/doku.php?id=projects:access_md:start"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -51,7 +52,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-#rss-description: ACESS.MD 
+#rss-description: ACESS.MD
 
 # --- General options --- #
 
@@ -208,4 +209,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

@@ -17,11 +17,17 @@ layout: page
         {{ post.subtitle }}
         </h3>
       {% endif %}
+
     </a>
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
+
+      {% if post.author %}
+        <br/>
+        Author : {{ post.author }}
+      {% endif %}
     </p>
 
     <div class="post-entry-container">
