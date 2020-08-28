@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Access.MD – the most open, privacy first, EMR solution"
+title: "ACCESS.MD – the most open, privacy first,  primary care EMR solution"
 date: "2020-08-28 20:18:45 +0300"
 author: "Ameer Alqam"
 ---
 
 ## Who we are?
 
-OpenMyMed is not-for-profit foundation focused on fostering Access.MD, an open source EMR and telemedicine platform, as well as many upcoming OSS projects relating to the medical industry.
+OpenMyMed is a foundation focused on fostering Access.MD, an open source EMR and telemedicine platform, as well as many upcoming OSS projects relating to the medical industry.
 
 ## What is Access.MD?
 
@@ -21,4 +21,4 @@ The platform provides mobile and web clients that allow doctors and patiens to f
 
 ## What Access.MD is not
 
-Acess.MD is not SaaS, although it can be provided by others as SaaS, it is also intended to be realtively easy to self host and maintain. Any clinic, hospital, medical institute, ... etc can host their own Access.MD instance, or a third party can provide it for them for use.
+ACCESS.MD is not SaaS, although it can be provided by others as SaaS, it is also intended to be relatively easy to self host and maintain. Any clinic, hospital, medical institute, ... etc can host their own Access.MD instance, or a third party can provide it for them for use.
