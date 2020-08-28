@@ -1,6 +1,8 @@
 ---
-layout: page
-title: About OpenMyMed
+layout: post
+title: "ACCESS.MD – the most open, privacy first,  primary care EMR solution"
+date: "2020-08-28 20:18:45 +0300"
+author: "Ameer Alqam"
 ---
 
 ## Who we are?
